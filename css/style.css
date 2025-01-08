@@ -957,7 +957,7 @@ padding-top: 10px;
 
   .slideshowContainer {
     position: relative;
-width: var(--width-full);
+    max-width: var(--width-full);
     margin: 100px auto 30px auto;
   }
 
